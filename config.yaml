@@ -1,0 +1,17 @@
+# Search path directory.
+directory: /media/y/DATA/Projects/uoais/
+
+# Keyword to lookup.
+key: GeneralizedRCNN
+
+# Only lookup at root
+root_only: false
+
+# Directories not to scan
+dirs_ignore: [build, datasets, datasets, output, uoais]
+
+# Show the line where keyword occurs in the folder. (not implemented yet...)
+show_details: false
+
+# Discriminates lower/upper letters
+discriminate_letter_case: false
